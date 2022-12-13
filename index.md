@@ -1,1 +1,22 @@
-Hello World
+# Hello World
+
+This is my home page! My name is Mitchell Dominik and I am a student at Cal State Fullerton(http://www.fullerton.edu/) and my major is Computer Science.
+
+## Computer Science Projects
+
+My GitHub page is https://github.com/mdominik21
+
+### CPSC 120
+
+Lab 7
+
+    I really liked Lab 7, part 1 because it was the first time we used functions in a lab. It was really interesting to see how we utilized functions and cin/cout statements in order to find the difference between two different dates. This lab also really helped me going forward in understanding how functions were used in future labs.
+
+* Lab 10
+
+    I enjoyed Lab 10, part 3 because we used file outputs to see PNG images for the first time. I also enjoyed continuing to write and learn functions. It was also nice to use the Magick color library for the first time and create our own PNG image. 
+
+* Lab 12
+
+    I think Lab 12, part 1 was my favorite out of the 3 I had to choose. I specifically really liked part 1 because we created an animated gradient PNG gif we could open and look at. It was cool to build the code and function in order to create a really pretty gradient gif.
+
