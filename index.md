@@ -4,7 +4,7 @@ This is my home page! My name is Mitchell Dominik and I am a student at Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/mdominik21
+My GitHub page is https://github.com/mdominik21.
 
 ### CPSC 120
 
@@ -18,5 +18,5 @@ My GitHub page is https://github.com/mdominik21
 
 * Lab 12
 
-    I think Lab 12, part 1 was my favorite out of the 3 I had to choose. I specifically really liked part 1 because we created an animated gradient PNG gif we could open and look at. It was cool to build the code and function in order to create a really pretty gradient gif.
+    I think Lab 12, part 1 was my favorite out of the 3 I had to choose. I specifically really liked part 1 because we created an animated gradient PNG gif we could open and look at. It was fascinating to use functions, vector statements, and the Magick library to create the animation.
 
