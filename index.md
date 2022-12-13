@@ -8,7 +8,7 @@ My GitHub page is https://github.com/mdominik21
 
 ### CPSC 120
 
-Lab 7
+* Lab 7
 
     I really liked Lab 7, part 1 because it was the first time we used functions in a lab. It was really interesting to see how we utilized functions and cin/cout statements in order to find the difference between two different dates. This lab also really helped me going forward in understanding how functions were used in future labs.
 
